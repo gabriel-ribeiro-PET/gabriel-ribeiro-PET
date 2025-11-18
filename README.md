@@ -1,6 +1,6 @@
 # 👋 Bem-vindo!
 
-Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no IFSP - São Carlos. Neste repositório tem todo o conteúdo (código) que eu já produzi até hoje durante meus estudos.
+Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no IFSP - São Carlos e participo do PET-ADS. Neste repositório tem todo o conteúdo (código) que eu já produzi até hoje.
 
 ## 📂 Repositórios
 
@@ -16,3 +16,5 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 
 - [Lógica com Portugol](https://github.com/gabriel-ribeiro-PET/logica-portugol)  
   Algoritmos e lógica de programação com Portugol.
+
+LinkedIn: www.linkedin.com/in/gabriel-melo-ribeiro-2436a3261
