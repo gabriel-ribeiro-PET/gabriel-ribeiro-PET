@@ -11,7 +11,7 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 ### <img src="C-LOGO.png" alt="Ícone do C" width="15"> [C Programming](https://github.com/gabriel-ribeiro-PET/c-programming)  
   Lógica e fundamentos de C.
 
-### [HTML & CSS](https://github.com/gabriel-ribeiro-PET/html-css)  
+### <img src="C-LOGO.png" alt="Ícone do C" width="15"> [HTML & CSS](https://github.com/gabriel-ribeiro-PET/html-css)  
   Desenvolvimento web básico.
 
 ### [Lógica com Portugol](https://github.com/gabriel-ribeiro-PET/logica-portugol)  
