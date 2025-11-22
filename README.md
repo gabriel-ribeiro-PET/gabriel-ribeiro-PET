@@ -2,7 +2,9 @@
 
 Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no IFSP - São Carlos e participo do PET-ADS. Neste repositório tem todo o conteúdo (código) que eu já produzi.
 
+--- 
 ### <img src="LINKEDIN-LOGO.png" alt="Ícone do LinkedIn" width="20"> [LinkedIn](http://www.linkedin.com/in/gabriel-melo-ribeiro-2436a3261)
+--- 
 
 ## 📂 Repositórios
 
@@ -24,5 +26,3 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 ![gabriel-ribeiro-9235's Stats](https://github-readme-stats.vercel.app/api?username=gabriel-ribeiro-9235&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![gabriel-ribeiro-9235's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ribeiro-9235&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-
