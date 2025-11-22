@@ -17,4 +17,8 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 - [Lógica com Portugol](https://github.com/gabriel-ribeiro-PET/logica-portugol)  
   Algoritmos e lógica de programação com Portugol.
 
-[LinkedIn](http://www.linkedin.com/in/gabriel-melo-ribeiro-2436a3261)
+## 📊 GitHub Stats
+
+<img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-ribeiro-9235&show_icons=true&theme=tokyonight&locale=en" />
+
+### [LinkedIn](http://www.linkedin.com/in/gabriel-melo-ribeiro-2436a3261)
