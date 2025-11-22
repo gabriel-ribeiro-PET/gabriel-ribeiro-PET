@@ -23,4 +23,4 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 
 ![gabriel-ribeiro-9235's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ribeiro-9235&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
-### <img src="LINKEDIN-LOGO.png" alt="Ícone do LinkedIn" width="25"> [LinkedIn](http://www.linkedin.com/in/gabriel-melo-ribeiro-2436a3261)
+### <img src="LINKEDIN-LOGO.png" alt="Ícone do LinkedIn" width="20"> [LinkedIn](http://www.linkedin.com/in/gabriel-melo-ribeiro-2436a3261)
