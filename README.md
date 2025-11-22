@@ -14,7 +14,7 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 ### <img src="html.png" alt="Ícone do HTML" width="15"> <img src="CSS-LOGO.png" alt="Ícone do CSS" width="15"> [HTML & CSS](https://github.com/gabriel-ribeiro-PET/html-css)  
   Desenvolvimento web básico.
 
-### [Lógica com Portugol](https://github.com/gabriel-ribeiro-PET/logica-portugol)  
+### <img src="PORTUGOL.png" alt="Ícone do Portugol" width="15"> [Lógica com Portugol](https://github.com/gabriel-ribeiro-PET/logica-portugol)  
   Algoritmos e lógica de programação com Portugol.
 
 ## 📊 GitHub Stats
