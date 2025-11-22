@@ -19,6 +19,8 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 
 ## 📊 GitHub Stats
 
-<img alt="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-ribeiro-9235&show_icons=true&theme=tokyonight&locale=en" />
+![gabriel-ribeiro-9235's Stats](https://github-readme-stats.vercel.app/api?username=gabriel-ribeiro-9235&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
+![gabriel-ribeiro-9235's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-ribeiro-9235&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### [LinkedIn](http://www.linkedin.com/in/gabriel-melo-ribeiro-2436a3261)
