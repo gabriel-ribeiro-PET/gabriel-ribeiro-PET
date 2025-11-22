@@ -5,7 +5,7 @@ Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no 
 ## 📂 Repositórios
 
 
-### ![Ícone do Python](PYTHON-LOGO.png) [Python Programming](https://github.com/gabriel-ribeiro-PET/python-programming)  
+### ![Ícone do Python](PYTHON-LOGO.png){width="20"} [Python Programming](https://github.com/gabriel-ribeiro-PET/python-programming)  
   Lógica e fundamentos de Python.
 
 ### [C Programming](https://github.com/gabriel-ribeiro-PET/c-programming)  
